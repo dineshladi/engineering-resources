@@ -20,5 +20,6 @@
 - [Joel Grus video on typing](https://www.youtube.com/watch?v=o64FV-ez6Gw)
 - [Stop writing Classess by Jack Diederich at PyCon 2012](https://www.youtube.com/watch?v=o9pEzgHorH0)
 - [The profession of solving (the wrong problem)](https://www.youtube.com/watch?v=kYMfE9u-lMo&feature=youtu.be) by Vincent Warmerdam
+- [Reproducibility in ML by Joel Grus](https://docs.google.com/presentation/d/1yHLPvPhUs2KGI5ZWo0sU-PKU3GimAk3iTsI38Z-B5Gw/edit#slide=id.g4da30dd42a_3_70) 
 
 
