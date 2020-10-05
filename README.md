@@ -22,5 +22,6 @@
 - [The profession of solving (the wrong problem)](https://www.youtube.com/watch?v=kYMfE9u-lMo&feature=youtu.be) by Vincent Warmerdam
 - [Reproducibility in ML by Joel Grus](https://docs.google.com/presentation/d/1yHLPvPhUs2KGI5ZWo0sU-PKU3GimAk3iTsI38Z-B5Gw/edit#slide=id.g4da30dd42a_3_70) 
 - [Beyond PEP 8 -- Best practices for beautiful intelligible code by Raymond Hettinger](https://www.youtube.com/watch?v=wf-BqAjZb8M) 
+- [Readability Counts by Trey Hunner at PyCon 2017](https://www.youtube.com/watch?v=knMg6G9_XCg&feature=youtu.be)
 
 
